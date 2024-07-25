@@ -1,8 +1,4 @@
 # VolleyballTournament
- Pagina web para la gestion del evento
- haciendo uso de la metodologia agil Scrum. El torneo, que reúne a equipos de diversas
- facultades y carreras, tiene como objetivo fomentar la integración y el espíritu deportivo entre
- los estudiantes.
  Objetivos del Proyecto
  1. Organizar un Torneo de Vóley Exitoso: Garantizar que el torneo se desarrolle sin
  contratiempos, desde la fase de grupos hasta la final.
